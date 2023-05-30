@@ -1,0 +1,5 @@
+project: rust-elf
+target: stream
+
+cmds:
+  - cmd: /stream
