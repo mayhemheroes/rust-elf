@@ -1,0 +1,5 @@
+project: rust-elf
+target: common
+
+cmds:
+  - cmd: /common

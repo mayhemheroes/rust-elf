@@ -1,0 +1,5 @@
+project: rust-elf
+target: symbol_table
+
+cmds:
+  - cmd: /symbol_table
